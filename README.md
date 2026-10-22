@@ -43,6 +43,8 @@ Repositórios dos projetos práticos desenvolvidos ao longo da matéria.
 | 11 | Aula 06 | Sem projeto | - | - | - |
 | 12 | Aula 07 | Projeto-CSS | [🔗 Repositório](https://github.com/Arthur-2612/Projeto-CSS) | [🌐 Ver online](https://projeto-css-mu.vercel.app) | HTML / CSS |
 | 13 | Aula 07 | Projeto---Tailwind | [🔗 Repositório](https://github.com/Arthur-2612/Projeto---Tailwind) | [🌐 Ver online](https://projeto-css-sdgs.vercel.app/) | HTML / Tailwind CSS |
+| 14 | Aula 08 | Projeto_React_JS | [🔗 Repositório](https://github.com/Arthur-2612/Projeto_React_JS) | [🌐 Ver online](https://projeto-react-js-seven.vercel.app/) | React |
+| 15 | Aula 08 | Soccer_React | [🔗 Repositório](https://github.com/Arthur-2612/Soccer_React) | [🌐 Ver online](https://soccerreact-lkd0e3d7v-arthur-033b.vercel.app/) | React |
 
 ## 🛠️ Tecnologias
 As tecnologias serão adicionadas conforme forem estudadas durante o semestre.
